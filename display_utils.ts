@@ -1,4 +1,5 @@
 // Add your code here
+// 8Aug2026 (ก่อนส่งให้ Cluade)
 namespace DisplayUtils {
     /**
      * ฟังก์ชันส่วนกลางสำหรับสลับสีฮาร์ดแวร์จอ RGB -> BGR

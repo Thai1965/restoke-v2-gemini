@@ -1,4 +1,5 @@
 // Add your code here
+// 8Aug2026 (ก่อนส่งให้ Cluade)
 namespace Font6x8 {
     export const WIDTH = 6
     export const HEIGHT = 8
